@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "comment": "Best anime ever",
+      "name": "justin"
+    },
+    {
+      "comment": "i enjoyed it",
+      "name": "kama",
+      "id": 1
+    },
+    {
+      "comment": "it was good",
+      "name": "kama",
+      "id": 2
+    },
+    {
+      "comment": "wcnievn aijfnvauweivcn awhefncq sncbiuzxn csabcnwd x cokdmcowempw dm wejniw cuew cijwenu wejcjiiewuc we cd",
+      "name": " wjdmciwn",
+      "id": 3
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "quoteId": 1,
+      "like": 1558524356
+    }
+  ]
+}
