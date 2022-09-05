@@ -1,0 +1,65 @@
+
+img{
+    display: block;
+    width: 979px;
+    margin: 0 auto;
+}
+#quote-list {
+    padding: 20px;
+  }
+
+body{
+    padding: 5;
+    font-size: 90%;
+    background-color: bisque;
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+}
+
+#inner_header{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.logo_container{
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.logo_container h1{
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 32px;
+    font-weight: 200;
+}
+
+.logo_container h1 span{
+    font-weight: 800;
+}
+
+#breed li{
+    cursor: pointer;
+    list-style-type: upper-roman;
+    color: blue;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+
+
